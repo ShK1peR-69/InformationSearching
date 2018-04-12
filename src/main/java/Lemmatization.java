@@ -22,8 +22,6 @@ public class Lemmatization {
                 }
             }
             writer.close();
-
-
         }
     }
 }
